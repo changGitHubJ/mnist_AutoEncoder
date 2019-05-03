@@ -1,4 +1,4 @@
-mnist using weight label
+AutoEncoder
 ====
 
 Overview
